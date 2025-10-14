@@ -68,7 +68,7 @@ This project addresses the challenge by implementing a **Salesforce-based soluti
 - **Custom Objects:** Research Publications, Projects, Funding, Departments  
 - **Reports & Dashboards:** Real-time visual analytics  
 - **Flows & Automation:** Automated data management  
-- **PowerPoint Report:** [Departmental_Research_Analysis.pptx]([./output/Departmental_Research_Analysis.pptx](https://docs.google.com/presentation/d/18yVqqBBZGENFhO4-LdTSEE6VZFZLOO6F/edit?usp=sharing&ouid=107479604466219102308&rtpof=true&sd=true))  
+- **PowerPoint Report:** [Comprehensive Analysis of Departmental_Research_Analysis.pptx](https://docs.google.com/presentation/d/18yVqqBBZGENFhO4-LdTSEE6VZFZLOO6F/edit?usp=sharing&ouid=107479604466219102308&rtpof=true&sd=true)  
 
 
 
